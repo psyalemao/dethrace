@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=dethrace
+Comment=Carmageddon Decompilation
+Type=Application
+Categories=Game;
+MimeType=application/dethrace-labs.dethrace
+Exec=dethrace %F
+Icon=icon
